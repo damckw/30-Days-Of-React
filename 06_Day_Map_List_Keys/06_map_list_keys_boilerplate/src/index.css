@@ -1,0 +1,4 @@
+.numberContainer {
+    display: grid;
+   grid-auto-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
